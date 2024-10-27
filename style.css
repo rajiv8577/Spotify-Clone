@@ -75,7 +75,7 @@ a {
 
 .library {
     background-color: #121212;
-    height: 70.7vh;
+    height: 71.7vh;
     border-radius: 1rem;
     margin: 0.5rem;
 }
@@ -270,7 +270,7 @@ a {
     cursor: pointer;
 }
 
-@media (max-width: 1055px) {
+@media (max-width: 1120px) {
     .album-dis {
         display: none;
     }
